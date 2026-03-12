@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" group-title="ULUSAL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="ATV" group-title="ULUSAL",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-name="ATV YEDEK" group-title="ULUSAL",ATV YEDEK
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:-1 tvg-name="ATV YEDEK 2" group-title="ULUSAL",ATV YEDEK 2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-name="KANAL D" group-title="ULUSAL",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-name="KANAL D YEDEK" group-title="ULUSAL",KANAL D YEDEK
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" group-title="ULUSAL",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-name="SHOW TV YEDEK" group-title="ULUSAL",SHOW TV YEDEK
+http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:-1 tvg-name="STAR TV" group-title="ULUSAL",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-name="NOW TV" group-title="ULUSAL",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-name="NOW TV YEDEK" group-title="ULUSAL",NOW TV YEDEK
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="TV8" group-title="ULUSAL",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-name="TV8,5" group-title="ULUSAL",TV8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-name="KANAL 7" group-title="ULUSAL",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="ULUSAL",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" group-title="ULUSAL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="360" group-title="ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="A2 TV" group-title="ULUSAL",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-name="TEVE2" group-title="ULUSAL",TEVE2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-name="TLC" group-title="ULUSAL",TLC
+https://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+#EXTINF:-1 tvg-name="DMAX" group-title="ULUSAL",DMAX
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 tvg-name="ATV AVRUPA" group-title="ULUSAL",ATV AVRUPA
+https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
+#EXTINF:-1 tvg-name="EURO D" group-title="ULUSAL",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="ULUSAL",KANAL D DRAMA
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-name="SHOW MAX" group-title="ULUSAL",SHOW MAX
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 tvg-name="TRT 2" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT AVAZ" group-title="ULUSAL",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT TURK" group-title="ULUSAL",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TV4" group-title="ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL" group-title="ULUSAL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="ULUSAL",TGRT BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-name="NAT GEO" group-title="ULUSAL",NAT GEO
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WİLD" group-title="ULUSAL",NAT GEO WİLD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="TRT MÜZİK" group-title="ULUSAL",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT HABER" group-title="ULUSAL",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="ULUSAL",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="AHABER" group-title="ULUSAL",AHABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
+#EXTINF:-1 tvg-name="AHABER YEDEK" group-title="ULUSAL",AHABER YEDEK
+https://turkuaz.tecostream.xyz/ahaber
+#EXTINF:-1 tvg-name="CNN TURK" group-title="ULUSAL",CNN TURK
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="ULUSAL",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-name="HABER GLOBAL" group-title="ULUSAL",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="HALK TV" group-title="ULUSAL",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="SOZCU TV" group-title="ULUSAL",SOZCU TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:-1 tvg-name="TV 100" group-title="ULUSAL",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-name="TELE1" group-title="ULUSAL",TELE1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER" group-title="ULUSAL",TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="24 TV" group-title="ULUSAL",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-name="HABERTURK" group-title="ULUSAL",HABERTURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-name="EKOL TV" group-title="ULUSAL",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-name="GZT" group-title="ULUSAL",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" group-title="ULUSAL",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="ULUSAL",BLOOMBERGHT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="ÜLKE TV" group-title="ULUSAL",ÜLKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-name="TVNET" group-title="ULUSAL",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="TVDEN" group-title="ULUSAL",TVDEN
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-name="BENGÜ TÜRK" group-title="ULUSAL",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-name="SAT7 TURK" group-title="ULUSAL",SAT7 TURK
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="ULUSAL",ULUSAL KANAL
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+#EXTINF:-1 tvg-name="FLASH HABER" group-title="ULUSAL",FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 tvg-name="TGRT EU" group-title="ULUSAL",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 tvg-name="MELTEM TV" group-title="ULUSAL",MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-name="FX" group-title="ULUSAL",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-name="TRT KURDİ" group-title="ULUSAL",TRT KURDİ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT ARABI" group-title="ULUSAL",TRT ARABI
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" group-title="ULUSAL",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="ULUSAL",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="ASPOR" group-title="ULUSAL",ASPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-name="ASPOR YEDEK" group-title="ULUSAL",ASPOR YEDEK
+http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1 tvg-name="BEİNSPORTS HABER" group-title="ULUSAL",BEİNSPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 tvg-name="HT SPOR" group-title="ULUSAL",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-name="TİVİBUSPOR" group-title="ULUSAL",TİVİBUSPOR
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+#EXTINF:-1 tvg-name="EKOL SPORTS" group-title="ULUSAL",EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 tvg-name="SPORTSTV" group-title="ULUSAL",SPORTSTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-name="SIFIRTV" group-title="ULUSAL",SIFIRTV
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="FB TV" group-title="ULUSAL",FB TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="TJK TV" group-title="ULUSAL",TJK TV
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-name="TAY TV" group-title="ULUSAL",TAY TV
+http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="ULUSAL",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" group-title="ULUSAL",TRT DİYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="ULUSAL",MİNİKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:-1 tvg-name="MİNİKA GO" group-title="ULUSAL",MİNİKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 tvg-name="DİSNEY JR" group-title="ULUSAL",DİSNEY JR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="BABY TV" group-title="ULUSAL",BABY TV
+https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-name="DİYANET TV" group-title="ULUSAL",DİYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TBMM TV" group-title="ULUSAL",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="TRT GENÇ" group-title="ULUSAL",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="AKİT TV" group-title="ULUSAL",AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-name="TİVİ6" group-title="ULUSAL",TİVİ6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-name="Bİ KANAL" group-title="ULUSAL",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-name="TELE10" group-title="ULUSAL",TELE10
+https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-name="TABİİ TV" group-title="ULUSAL",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=DLMxZmNUkE--5TYdUlidYg
+#EXTINF:-1 tvg-name="4U TV" group-title="ULUSAL",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TV1" group-title="ULUSAL",TV1
+https://edge.taksimbilisim.com/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="ULUSAL",ÇİFTÇİ TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-name="YABAN TV" group-title="ULUSAL",YABAN TV
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="VAV TV" group-title="ULUSAL",VAV TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BRT1" group-title="ULUSAL",BRT1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+#EXTINF:-1 tvg-name="BRT2" group-title="ULUSAL",BRT2
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+#EXTINF:-1 tvg-name="TYT TURK" group-title="ULUSAL",TYT TURK
+https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+#EXTINF:-1 tvg-name="TELENEWS" group-title="ULUSAL",TELENEWS
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SİNEMA TV" group-title="ULUSAL",SİNEMA TV
+https://mss.ayakkabiparti.lol/sinema/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA AİLE" group-title="ULUSAL",SİNEMA AİLE
+https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="ULUSAL",SİNEMA AKSİYON
+https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON 2" group-title="ULUSAL",SİNEMA AKSİYON 2
+https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA KOMEDİ" group-title="ULUSAL",SİNEMA KOMEDİ
+https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA 1001" group-title="ULUSAL",SİNEMA 1001
+https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
+#EXTINF:-1 tvg-name="SİNEMA 1002" group-title="ULUSAL",SİNEMA 1002
+https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
+#EXTINF:-1 tvg-name="BEİN MOVİES ACTİON" group-title="ULUSAL",BEİN MOVİES ACTİON
+https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-name="BEİN MOVİES FAMİLY" group-title="ULUSAL",BEİN MOVİES FAMİLY
+https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
+#EXTINF:-1 tvg-name="AL JAZEERA" group-title="ULUSAL",AL JAZEERA
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-name="RUSSİA TODAY" group-title="ULUSAL",RUSSİA TODAY
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-name="FRANCE 24" group-title="ULUSAL",FRANCE 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-name="CBS NEWS" group-title="ULUSAL",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+#EXTINF:-1 tvg-name="DW ENGLİSH" group-title="ULUSAL",DW ENGLİSH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD" group-title="ULUSAL",NHK WORLD
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/6847a0ee41836b524f602816c9a9e3836b4591c5dfeacd44bcbeb82f016a596b/v5.m3u8
+#EXTINF:-1 tvg-name="PRESS TV" group-title="ULUSAL",PRESS TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-name="CGTN DOCUMENTARY" group-title="ULUSAL",CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 tvg-name="TABİİ SPOR" group-title="ULUSAL",TABİİ SPOR
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TABİİ SPOR 1" group-title="ULUSAL",TABİİ SPOR 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TABİİ SPOR 5" group-title="ULUSAL",TABİİ SPOR 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TABİİ SPOR 6" group-title="ULUSAL",TABİİ SPOR 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_720p.m3u8
+#EXTINF:-1 tvg-name="TABİİ SPOR 7" group-title="ULUSAL",TABİİ SPOR 7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRACE SPORT" group-title="ULUSAL",TRACE SPORT
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
